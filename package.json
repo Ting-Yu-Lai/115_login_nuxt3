@@ -1,0 +1,20 @@
+{
+  "name": "115_Kayn_login__nuxt3",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^1.0.1",
+    "naive-ui": "^2.44.1",
+    "nuxt": "^4.5.0",
+    "pinia": "^4.0.2",
+    "vue": "^3.5.40",
+    "vue-router": "^5.2.0"
+  }
+}
